@@ -46,6 +46,23 @@ React路由：React-Router
 
 单元测试: 库一般有官方测试或者第三方（Airbnb的Enzyme） 
 
+### 进阶
+
+FlexBox布局
+
+React组件化
+
+React Native热更新部署/热更新
+
 ## 参考
 
 <a href="http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html">React技术栈系列教程</a>
+
+<a href="https://github.com/qiu-deqing/FE-learning">结合个人经历总结的前端入门方法</a>
+
+<a href="http://www.oschina.net/news/76354/self-taught-javascript">前端自学路线之 JavaScript 篇</a>
+
+
+<a href="http://www.ruanyifeng.com/blog/2016/11/javascript.html"></a>
+
+<a href="http://blog.talisk.cn/blog/2016/08/13/RN-Learning-path-for-iOS-developer/">写给iOS开发者的React Native学习路线</a>
